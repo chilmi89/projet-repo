@@ -3,6 +3,7 @@ menyimpan sebuah file
         dengan git dan di pull ke github
         membuat github sebagai sarana/alat bekerja
 monitoring sebuah perubahan dan membuat fleksibilitas code
+        -----membuat vsc yang baik dan benar-----
 -----memantau sebuah perubahan apakah dan di implementasikan atau tidak-------------
      enkripsi sebah fitur perubahan agar memnubat code yang serupa tidak akan terjadi
 
