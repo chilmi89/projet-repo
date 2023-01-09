@@ -1,7 +1,8 @@
 menyimpan sebuah file 
 -----membuat file dan repository-----------
-        dengan git dan dil pull ke github
+        dengan git dan di pull ke github
+        membuat github sebagai sarana/alat bekerja
 monitoring sebuah perubahan dan membuat fleksibilitas code
 -----memantau sebuah perubahan apakah dan di implementasikan atau tidak-------------
      enkripsi sebah fitur perubahan agar memnubat code yang serupa tidak akan terjadi
-membuat fitur yang reussible dan experience
+
