@@ -1,2 +1,2 @@
 # projet-repo
-belajar sebiah github
+belajar sebuah github
