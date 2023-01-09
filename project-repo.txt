@@ -1,4 +1,5 @@
 ingin bealajar git dan menggunakan git secara maksimal dan konsisten
-git sangat powerfull
+gtihub-powerfull
 membuat team work bersama
 dapat berkolaborasi bersama master expert
+menggunakan github begitu memudahkan mealkukan revisi atau perubahan pada file atau system
